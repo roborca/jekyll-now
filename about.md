@@ -13,7 +13,7 @@ permalink: /about/
 > 
 > 現在では、サッカーだけでなく、大規模災害へのロボットの応用としてレスキュー、次世代の技術の担い手を育てるジュニアなどが組織されています。
 
-*(ロボカップ2017名古屋世界大会公式HP)[http://www.robocup2017.org] より*
+(ロボカップ2017名古屋世界大会公式HP)[http://www.robocup2017.org] より
 
 ### ロボカップサッカーとは
 
@@ -26,7 +26,7 @@ permalink: /about/
 > ◎スタンダードプラットフォーム
 > ◎ヒューマノイドリーグ
 
-*(ロボカップ2017名古屋世界大会公式HP)[http://www.robocup2017.org] より*
+(ロボカップ2017名古屋世界大会公式HP)[http://www.robocup2017.org] より
 
 ### ロボカップサッカー SSL（小型ロボット）リーグとは
 
@@ -34,7 +34,7 @@ permalink: /about/
 > フィールド全体を見渡すカメラ、あるいはロボット搭載カメラからの視覚情報をベースに、ロボット同士がいかにシステマチックなチームプレーを構築していくかが見所です。
 > 人間のサッカーを凌ぐ機敏な動きとロボットの状況判断力に驚かされます。
 
-*(ロボカップ日本大会公式HP)[http://www.robocup.or.jp/original/soccer.html] より*
+(ロボカップ日本大会公式HP)[http://www.robocup.or.jp/original/soccer.html] より
 
 ## ROBORCAとは
 
@@ -46,7 +46,9 @@ permalink: /about/
 　ROBOとOLCA(シャチ)を合わせた名前で、２０１６年１２月３０日のミーティングで決定されました。  
  
 ### Contact me
-
+　右下のチャットボックスからメッセージを送れます。
+ 
+ 
 <p><script src='https://cdn.slaask.com/chat.js'></script>
 <script>
     _slaask.init('74279122827165cc7ae4d927faba9f0c');
