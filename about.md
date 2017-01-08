@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
 ### ロボカップとは
 
@@ -14,7 +13,7 @@ Some information about you!
 > 
 > 現在では、サッカーだけでなく、大規模災害へのロボットの応用としてレスキュー、次世代の技術の担い手を育てるジュニアなどが組織されています。
 
-*(ロボカップ2017名古屋世界大会公式HP)[http://www.robocup2017.org]より*
+*(ロボカップ2017名古屋世界大会公式HP)[http://www.robocup2017.org] より*
 
 ### ロボカップサッカーとは
 
@@ -27,7 +26,7 @@ Some information about you!
 > ◎スタンダードプラットフォーム
 > ◎ヒューマノイドリーグ
 
-*(ロボカップ2017名古屋世界大会公式HP)[http://www.robocup2017.org]より*
+*(ロボカップ2017名古屋世界大会公式HP)[http://www.robocup2017.org] より*
 
 ### ロボカップサッカー SSL（小型ロボット）リーグとは
 
@@ -35,7 +34,7 @@ Some information about you!
 > フィールド全体を見渡すカメラ、あるいはロボット搭載カメラからの視覚情報をベースに、ロボット同士がいかにシステマチックなチームプレーを構築していくかが見所です。
 > 人間のサッカーを凌ぐ機敏な動きとロボットの状況判断力に驚かされます。
 
-*(ロボカップ日本大会公式HP)[http://www.robocup.or.jp/original/soccer.html]より*
+*(ロボカップ日本大会公式HP)[http://www.robocup.or.jp/original/soccer.html] より*
 
 ## ROBORCAとは
 
